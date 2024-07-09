@@ -2,7 +2,7 @@ package com.example.shoppinglist.domain
 
 class EditShopItemUseCase {
 
-    fun editShopItem(){
+    fun editShopItem(shopItem: ShopItem){
 
     }
 }

@@ -2,7 +2,7 @@ package com.example.shoppinglist.domain
 
 class GetShopItemUseCase {
 
-    fun getShopItem(): ShopItem{
+    fun getShopItem(id: Int): ShopItem{
         TODO()
     }
 }

@@ -2,7 +2,7 @@ package com.example.shoppinglist.domain
 
 class DeleteShopItemUseCase {
 
-    fun deleteShopItem(){
+    fun deleteShopItem(shopItem: ShopItem){
 
     }
 }
