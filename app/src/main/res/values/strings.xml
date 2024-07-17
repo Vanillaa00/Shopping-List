@@ -5,4 +5,6 @@
     <string name="name_hint">Name:</string>
     <string name="count_hint">Count:</string>
     <string name="save_button">Save</string>
+    <string name="error_input_count">Field count cannot be empty</string>
+    <string name="error_input_name">Field name cannot be empty</string>
 </resources>
